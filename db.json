@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": "5fb1",
+      "name": "Elisa Pfeffer"
+    },
+    {
+      "id": "89f9",
+      "name": "Claudia Cartwright Jr."
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 1
+    }
+  ],
+  "photos": []
+}
